@@ -5,7 +5,7 @@
   "start_url": "./netsuha-do.html",
   "scope": "./",
   "display": "standalone",
-  "orientation": "any",
+  "orientation": "landscape",
   "background_color": "#150f0a",
   "theme_color": "#150f0a",
   "icons": [
